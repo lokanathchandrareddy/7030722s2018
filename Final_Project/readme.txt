@@ -24,4 +24,7 @@ For the project report, please refer, Showcase_Project_Report
 
 For references, please refer the project report or references.txt
 
+To know more the about the files, refer file structure.txt
+
+
 
