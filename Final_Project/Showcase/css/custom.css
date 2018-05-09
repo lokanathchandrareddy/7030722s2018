@@ -1,0 +1,204 @@
+/*----------- Custom css -------------*/
+
+.awe-search-tabs__content .ui-tabs-panel .form-actions a {
+	background-color: #0091ea;
+	border: 0 none;
+	border-radius: 3px;
+	box-shadow: 0 -2px 0 0 rgba(0, 0, 0, 0.3) inset;
+	color: #ffffff;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: normal;
+	padding: 8px 15px 10px;
+	position: relative;
+	transition: all 0.3s ease 0s;
+	text-align: center;
+}
+.awe-search-tabs__content .ui-tabs-panel .form-actions {
+    width: 100%;
+	margin-top: 50px;
+}
+form label.error {
+  color: #ff0000 !important;
+  font-size: 88% !important;
+  font-weight: 100 !important;
+  margin: 0 !important;
+}
+.awe-search-tabs {
+  margin-top: 15px;
+}
+.results .result:first-child {
+  padding-top: 45px !important;
+  position: relative;
+}
+.results .result:first-child::before {
+  background: #ffffff none repeat scroll 0 0;
+  border-bottom: 1px solid #ededed;
+  border-radius: 0;
+  content: "Top cities";
+  cursor: default;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  margin-bottom: 13px;
+  padding: 5px 15px;
+  position: absolute;
+  right: 0;
+  text-transform: uppercase;
+  top: 2px;
+}
+.ui.search > .results .result .title {
+  color: #999999 !important;
+  float: left;
+  font-family: helvetica;
+  font-size: 1em;
+  font-weight: 500;
+  margin: 0;
+}
+.ui.search > .results {
+  min-width: 190px;
+}
+
+.ui.search > .results .result .description {
+  color: #999999;
+  float: right;
+  font-size: 1em;
+  margin-top: 0;
+}
+[class~=ui-widget-content] [class~=ui-state-hover] {
+    border-radius: 0;
+}
+[type=reset], [type=submit], button, html [type=button] {    
+	appearance: none;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	-o-appearance: none;
+	-ms-appearance: none;
+}
+table.responsive-table {
+    width: 100%;
+}
+.db2-form-com .box {
+  position: relative;
+  width: 100%;
+}
+.inputfile {
+  cursor: pointer;
+  height: 37px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  width: 150px;
+  z-index: 1;
+}
+.inputfile-6 + i + label, .inputfile-6 + label {
+  background-color: #ffffff;
+  border: 0 solid #009665;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  color: #009665;
+}
+.inputfile-6 + i + label span, .inputfile-6 + label span {
+  border: 1px solid #ededed;
+  color: #0091ea;
+  display: inline-block;
+  float: right;
+  height: 40px;
+  line-height: 40px;
+  min-height: 2.4em;
+  overflow: hidden;
+  padding: 0 15px;
+  text-overflow: ellipsis;
+  vertical-align: top;
+  white-space: nowrap;
+  width: calc(100% - 150px);
+}
+.inputfile-6 + i + label strong, .inputfile-6 + label strong {
+  background-color: #0091ea;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1em;
+  height: 40px;
+  padding: 0.625rem 0.85rem;
+  text-transform: capitalize;
+  width: 150px;
+}
+.box svg {
+  fill: #ffffff;
+  position: relative;
+  top: 2px;
+  width: 17px;
+}
+.over-slider {
+  float: left;
+  margin-top: -190px !important;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.intl-tel-input .country-list .country {
+  float: left;
+  padding: 5px 10px;
+  width: 100%;
+}
+.intl-tel-input .country-list .country .dial-code {
+  color: rgb(153, 153, 153);
+  float: right;
+  line-height: 1.6;
+  position: relative;
+  top: 0;
+  width: auto;
+}
+.flag-box {
+  float: left;
+  margin-top: 7px;
+}
+
+.loader {
+ position: fixed;
+ left: 0px;
+ top: 0px;
+ width: 100%;
+ height: 100%;
+ z-index: 9999;
+ background: url('../images/page-loader.gif') 50% 50% no-repeat rgb(249,249,249);
+ opacity: 0.30;
+}
+.intl-tel-input {
+  color: rgb(51, 51, 51);
+  width: 100%;
+}
+input[name="mobile_number"] {
+  border: 1px solid rgb(220, 220, 220);
+  color: rgb(51, 51, 51);
+  height: 40px;
+  padding: 10px 12px;
+}
+.firstUpper{
+	text-transform: capitalize;
+}
+.content-title {
+  padding-top: 28px;
+}
+#gallerybox {
+  width:100%;
+  max-width:100%;
+}
+.demo {
+  height: auto !important;
+  max-height: 265px !important;
+  max-width: 265px !important;
+  min-height: 264px !important;
+  width: 264px !important;
+}
+.show_name {
+  font-size: 20px;
+  font-weight: bold;
+  position: relative;
+  text-align: center;
+  top: 20px;
+  text-transform: capitalize;
+}

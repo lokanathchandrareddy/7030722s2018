@@ -1,0 +1,49 @@
+.masonry-section-demo {
+	margin: 70px 0;
+}
+.trip-flight-hotel-section-demo, .sale-flights-section-demo {
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+.masonry-section-demo .more-destination {
+	background-image: url(../images/img/bg-button.jpg);
+}
+.travelling-block-section-demo {
+	background-image: url(../images/img/17.jpg);
+}
+.category-heading-section-demo {
+  background-image: url(../images/img/3.jpg);
+}
+.category-heading-section-demo.flight {
+  background-image: url(../images/img/19.jpg);
+}
+.login-page {
+	background-image: url(../images/bg/1.jpg);
+}
+.register-page {
+	background-image: url(../images/bg/3.jpg);
+}
+.page-heading-demo {
+  background-image: url("../images/img/13.jpg");
+}
+.more-destination {
+	background-image: url(../images/img/bg-button.jpg);
+}
+.widget_background__half .bg {
+	background-image: url(../images/img/5.jpg);
+}
+
+.your-destinations-section-demo {
+	margin-top: 50px;
+	margin-bottom: 150px;
+}
+.checkout-section-demo {
+    padding-top: 62px;
+    padding-bottom: 140px;
+}
+
+/*--------------------------------custome css------------------------------------*/
+
+.tab-title {
+  margin-right: 25px;
+}

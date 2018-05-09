@@ -1,0 +1,25 @@
+Name: Lokanath Chandra Reddy
+Project: Showcase 
+
+References:
+To develop this project, I have referred lot of websites, tutorials, YouTube videos, extensively used stack overflow for every task that I have worked on. I have faced lot of issues, errors, etc. which enabled me to research more and more. I have mentioned a few of the references, that were stored in my recent history and most of them were deleted when I upgraded my system. I have not copied the code from any source completely or as is, but have used methods, functions, syntaxes explained in the videos or tutorials to my own requirements. For every task I wanted to do, I have referred online and implemented in my own way. 
+I have done the project without copying the code as is, but have referred online and used the code modified and used it as per the need. (mostly through the tutorials and stack overflow).
+Below are some of the references:
+1.	https://teamtreehouse.com/community/php-code-question
+2.	https://stackoverflow.com/questions/32021593/how-to-use-pdo-variable-in-another-class?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+3.	https://github.com/ThingEngineer/PHP-MySQLi-Database-Class/blob/master/readme.md
+(used this link to learn on how to query the objects and use SQL)
+4.	https://www.experts-exchange.com/questions/29039674/JSON-response-using-Ajax-jQuery-PHP.html ( to define submit function ) 
+5.	https://www.jqueryscript.net/demo/Fullscreen-Responsive-Photo-Gallery-Plugin-Gallerybox/
+6.	https://www.jqueryscript.net/gallery/Fullscreen-Responsive-Photo-Gallery-Plugin-Gallerybox.html (jquery to fetch and display images)
+7.	http://jqueryui.com/
+8.	https://www.youtube.com/watch?v=QjJpxDkIPIQ (understand scripting for gallery)
+9.	https://stackoverflow.com/questions/22197640/change-cursor-style-when-drag-and-drop-in-css
+10.	Larry Ullman. 2010. Effortless E-Commerce with PHP and MySQL (1st ed.). New Riders Publishing, Thousand Oaks, CA, USA. ( referred this book for understanding on how to code php functions effectively ) 
+11.	http://mywebmymail.com/?page_id=133 ( To refer on how to display the enlarged image, compress and manipulate images ( which is yet to be implemented)
+12.	https://stackoverflow.com/questions/26011612/create-mysql-table-in-phpmyadmin-sql-window?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa (creating a database and importing on php my admin)
+13.	https://www.dunebook.com/tutorial-creating-a-photo-gallery-system-with-laravel/ ( will be referring this to build group(album) based image gallery for future implementation)
+14.	https://www.youtube.com/watch?v=Pz5CbLqdGwM ( Have refered and used some part of the code for creating login and register page)
+15.	http://form.guide/php-form/php-registration-form.html ( referred this for validations) 
+16.	 https://xopixel.com/responsive-animated-image-grid-html5-css3/ (will use this for image filters and beautifying the gallery page)
+17.	https://www.digitalocean.com/community/tutorials/how-to-connect-to-a-mysql-server-remotely-with-mysql-workbench ( referred this for connections on the server)

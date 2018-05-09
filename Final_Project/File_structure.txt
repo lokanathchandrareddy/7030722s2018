@@ -1,0 +1,95 @@
+Project Name: ShowCase
+Description: Image Gallery
+Owner: Lokanath Chandra Reddy
+
+Please note: You have to only change the config.php file for settings after creating the database or if you need to upload it to the server
+
+File Structure
+
+Showcase:
+
+	-index.php
+     	-gallery.php
+     
+	-private-gallery.php
+     	-login.php
+    	-register.php
+    	-profile.php
+    ----etc ----------
+    ----------------
+ 
+css(Dir)
+        -fonts(Dir)- these have been downloaded from online, if we just search on google by the file name we can get it. 
+         colors(Dir) - defines the theme
+         lib (Dir) - css files have been downloaded from online, bootstrap, font-awesome and gallerybox. 
+	-custom.css
+	-demo.css
+	-gallery-styles.css - used for gallery display (reference added in reference section)
+………etc…………………….
+……………………………
+
+
+Images(Dir)
+ - contains various images like logo, home screen image etc. downloaded from google    
+
+inc (Dir)
+    
+	config.php
+ - configuration file   
+	dbFunctions.php
+  - sql functions   
+	ajax_db_functions.php - defining sql functions, and validations
+Js (Dir)
+	Lib(Dir) - libaries used for the project, references mentioned in references file.
+	login.js ( handling login validations)
+	register.js(handling register form validations)
+	user-profile(handling edit profile validations)
+
+uploads ( used to store the images uploaded)
+	-medium - to show the enlarged version
+remaining files to show the thumbnail version
+
+login.php
+
+Comment:  this file used for login process .
+  User name and password match from from user table from database .
+
+register.php
+
+Comment:  this file used for user sign-up .
+  All information will b saves in users table
+
+forgot-password.php
+Comment:  this file used for forget password .
+  All information will b saves in users table
+
+gallery.php
+
+Comment:  this file used for show only  public images  in gallery
+  uploaded by all users.images name saved in tbl_gallery
+
+private-gallery.php
+
+Comment:  this file used for show private  images  in gallery, uploaded by individual users. images name saved in tbl_gallery
+
+upload_gallery.php
+
+Comment:   user can select files for upload form this file.It will work on ajax request… upload.php this file will save data into tbl_gallery table and file will stored in uploads folder whitch one is on root.
+
+thumb_functions.php 
+Comment: file is include in upload.php for create thumbnail of upload image
+
+upload.php 
+Comment: file used for during file edit.
+
+edit-gallery.php
+Comment:  this file used for edit image
+
+
+head.php and header.php 
+Comment: to define the libaries, and scripts
+
+image_upload.php
+Comment: To upload two versions in two different paths (small and medium/large)
+
+
